@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="nummoves">numMoves</string>
+    <string name="numparis">numParis</string>
+    <string name="button">button</string>
+    <string name="title_activity_hard">Hard</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="memory_game">Match Pairs</string>
+    <string name="test_your_memory_with_this_memory_game_first_select_the_difficulty_level_the_higher_the_number_the_more_cards_are_in_the_memo_game_on_the_game_board_there_are_always_two_identical_images_start_the_game_by_flipping_a_card_then_try_to_find_another_card_that_has_the_same_image_as_the_first_if_you_can_t_find_a_pair_the_flipped_cards_will_be_flipped_back_with_the_face_down_try_to_remember_these_images_as_it_becomes_easier_to_find_pairs_the_longer_you_play">Test your memory with this memory game. First select the difficulty level. The higher the number, the more cards are in the memo game. On the game board, there are always two identical images. Start the game by flipping a card. Then try to find another card that has the same image as the first. If you can\'t find a pair, the flipped cards will be flipped back with the face down. Try to remember these images as it becomes easier to find pairs the longer you play</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="easy">Easy</string>
+
+</resources>
